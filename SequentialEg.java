@@ -1,4 +1,4 @@
-package thread;
+package ioexception;
 
 public class SequentialEg {
 	public void run() {
